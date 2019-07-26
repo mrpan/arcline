@@ -1,0 +1,25 @@
+{
+  "name": "arcline",
+  "version": "1.0.0",
+  "description": "Curve generation tool",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.37.0",
+    "webpack-cli": "^3.3.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpan/arcline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpan/arcline/issues"
+  },
+  "homepage": "https://github.com/mrpan/arcline#readme"
+}
