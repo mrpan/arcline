@@ -1,4 +1,6 @@
+console.log(ArcLine)
 var ArcLine=ArcLine.default;
+
 var arcline =new ArcLine({
     fromA:{
         x:10,
